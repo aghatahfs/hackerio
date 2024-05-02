@@ -45,7 +45,7 @@ dan Berikut Tampilan tema
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/bfe5348c-3b93-4e5d-aa8b-eec4a568d766)
 
-## Penerapan Fitur Bookmark
+## 3. Penerapan Fitur Bookmark
 Dengan fitur bookmark kita bisa menyimpan data secara local dan disini kami menggunakan dependencies 'get_storage'. Dengan 'get_storage' artikel atau post dapat disimpan secara lokal sehingga dapat di akses ketika user dalam mode offline.
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/fd8128f3-5eca-4fcf-b582-15e60b78679b)
