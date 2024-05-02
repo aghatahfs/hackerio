@@ -9,6 +9,8 @@ Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity.
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/67e3d77b-0101-4fe4-a07f-449e56bc03ec)
 
+![image](https://github.com/aghatahfs/hackerio/assets/125784567/7223bde1-f8e8-4cf3-a2d3-2f9432e863c5)
+
 
 ## Getting Started
 # 1. Asynchronus Programming & Circular Progres
