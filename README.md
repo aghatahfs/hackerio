@@ -2,7 +2,7 @@
 
 **Aplikasi Blog Hacker**
 
-Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity. A
+Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity. 
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/67dd3033-aeb1-49e9-a551-728f6e2b892f)
 
