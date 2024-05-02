@@ -1,4 +1,4 @@
-# hackerio
+## hackerio
 
 **Aplikasi Blog Hacker**
 Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity.
@@ -12,7 +12,8 @@ Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity.
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/7223bde1-f8e8-4cf3-a2d3-2f9432e863c5)
 
 
-## Getting Started
+## Penjelasan Aplikasi
+
 # 1. Asynchronus Programming & Circular Progres
 Penerapan fechting API secara Asynchronus dengan circular progress. Disini kami menggunakan dependencies Dio untu fetching API. Untuk provider API saya buat sendiri dan saya hosting. Kami juga menambahkan circular progress ketika API tidak dapat dimuat untuk menjaga tampilan agar tidak rusak sekaligus untuk mengetahui apakah ada masalah pada koneksi atau pada provider API.
 
