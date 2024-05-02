@@ -1,4 +1,4 @@
-## hackerio
+# hackerio
 
 **Aplikasi Blog Hacker**
 Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity.
@@ -12,9 +12,9 @@ Aplikasi yang menyajikan artikel yang berhubungan dengan cybersecurity.
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/7223bde1-f8e8-4cf3-a2d3-2f9432e863c5)
 
 
-## Penjelasan Aplikasi
+# Penjelasan Aplikasi
 
-# 1. Asynchronus Programming & Circular Progres
+## 1. Asynchronus Programming & Circular Progres
 Penerapan fechting API secara Asynchronus dengan circular progress. Disini kami menggunakan dependencies Dio untu fetching API. Untuk provider API saya buat sendiri dan saya hosting. Kami juga menambahkan circular progress ketika API tidak dapat dimuat untuk menjaga tampilan agar tidak rusak sekaligus untuk mengetahui apakah ada masalah pada koneksi atau pada provider API.
 
 Berikut gambar code untuk fetching API:
@@ -28,7 +28,7 @@ Berikut gambar code untuk fetching API:
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/80e81f38-21df-425e-91d4-0d198b7817d4)
 
-# 2. Penerapan Tema Darkmode dan LightMode
+## 2. Penerapan Tema Darkmode dan LightMode
 Penerapan fungsi untuk mengganti tema dark mode atau light mode dengan switch dan value key. Fungsi ini kami terapkan pada halaman setting dengan memberikan switch button. Agar aplikasi tetap mempertahankan tema ketika di close dan di jalankan kembali, kami menggunakan dependencies shared_preferences. 
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/72e5bfe5-eef5-417d-968c-6f42d994df0b)
@@ -45,7 +45,7 @@ dan Berikut Tampilan tema
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/bfe5348c-3b93-4e5d-aa8b-eec4a568d766)
 
-# Penerapan Fitur Bookmark
+## Penerapan Fitur Bookmark
 Dengan fitur bookmark kita bisa menyimpan data secara local dan disini kami menggunakan dependencies 'get_storage'. Dengan 'get_storage' artikel atau post dapat disimpan secara lokal sehingga dapat di akses ketika user dalam mode offline.
 
 ![image](https://github.com/aghatahfs/hackerio/assets/125784567/fd8128f3-5eca-4fcf-b582-15e60b78679b)
